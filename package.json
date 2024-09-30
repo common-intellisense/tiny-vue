@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/tiny-vue3#readme",
+  "homepage": "https://github.com/common-intellisense/tiny-vue#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/tiny-vue3.git"
+    "url": "git+https://github.com/common-intellisense/tiny-vue.git"
   },
-  "bugs": "https://github.com/common-intellisense/tiny-vue3/issues",
+  "bugs": "https://github.com/common-intellisense/tiny-vue/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
